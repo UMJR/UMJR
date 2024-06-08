@@ -1,8 +1,8 @@
 # ⚡️ Bienvenidos a la Zona UMJR ⚡️
 
-![Hacker Gif](https://media.giphy.com/media/3o6Zt6DgFWVMyX5dqo/giphy.gif)
+![Hacker Gif](https://media.giphy.com/media/m6Gkz5AVTo7o4/giphy.gif)
 
-## 🌌 Explorando los Límite de la Programación y Hacking 🌌
+## 🌌 Explorando los Límite de la Programación 🌌
 
 ### 🔍 Repositorios Clave 🔎
 1. **UMJR** - El núcleo de nuestros proyectos.
