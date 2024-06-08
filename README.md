@@ -1,20 +1,19 @@
-# 🌟 Bienvenidos a la Dimensión UMJR 🚀
+# ⚡️ Bienvenidos a la Zona UMJR ⚡️
 
-![Crazy Gif](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+![Hacker Gif](https://media.giphy.com/media/3o6Zt6DgFWVMyX5dqo/giphy.gif)
 
-## 🌈 ¡Prepárate para una experiencia fuera de este mundo! 🌈
+## 🌌 Explorando los Límite de la Programación y Hacking 🌌
 
-### 🎉 Repositorios Épicos 🥳
-1. **UMJR** - ¡El proyecto maestro de todos los tiempos! 🤯
-2. **holamundo** - ¡Hola, Mundo! 🌎 Python es nuestro lenguaje de magia.
-3. **MensajeriaMovil** - ¡Envía mensajes anónimos con estilo! 📱 Kotlin es el camino.
+### 🔍 Repositorios Clave 🔎
+1. **UMJR** - El núcleo de nuestros proyectos.
+2. **holamundo** - El punto de partida con Python.
+3. **MensajeriaMovil** - Mensajes anónimos con Kotlin.
 
-### 🔧 Tecnologías Utilizadas 💡
-- **Python** 🐍: Porque programar es como hacer magia con serpientes.
-- **Kotlin** ☕: El café de los dioses del código móvil.
+### 🛠️ Tecnologías Utilizadas 🛠️
+- **Python** 🐍: Para scripts rápidos y potentes.
+- **Kotlin** ☕: Para desarrollar aplicaciones móviles robustas.
 
-### 🚀 ¡Despliegue y Diversión! 🎨
-1. **Clona este manicomio:**
+### ⚙️ Instalación y Ejecución 🖥️
+1. **Clona el repositorio:**
    ```bash
    git clone https://github.com/UMJR/UMJR.git
-
