@@ -8,6 +8,8 @@
 1. **UMJR** - El núcleo de nuestros proyectos.
 2. **holamundo** - El punto de partida con Python.
 3. **MensajeriaMovil** - Mensajes anónimos con Kotlin.
+4. **Memorama** - Memorama en Java movil.
+   
 
 ### 🛠️ Tecnologías Utilizadas 🛠️
 - **Python** 🐍: Para scripts rápidos y potentes.
@@ -16,4 +18,4 @@
 ### ⚙️ Instalación y Ejecución 🖥️
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/UMJR/UMJR.git
+   git clone https://github.com/UMJR/[Nombre del repositorio].git
